@@ -82,11 +82,11 @@ superstore-sql-analysis/
 
 > *(To be updated after running queries)*
 
-- 🏆 **Top Region:** [West] had the highest total sales
-- 📦 **Top Category:** [Technology] was the most profitable category
+- 🏆 **Top Region:** West had the highest total sales
+- 📦 **Top Category:** Technology was the most profitable category
 - 📉 **Loss Orders:** Several orders with high discounts resulted in negative profit
-- 👤 **Top Customer:** [ ] was the most profitable customer
-- 📈 **Sales Trend:** Sales showed [ ] growth pattern over the years
+- 👤 **Top Customer:** Tamara Chand was the most profitable customer
+- 📈 **Sales Trend:** Sales showed seasonal growth pattern over the years
 
 ---
 
